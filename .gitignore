@@ -1,0 +1,14 @@
+*.iml
+.idea/
+*.apk
+*.ap_
+*.class
+*.dex
+/build
+/captures
+.gradle/
+local.properties
+*.log
+*.tmp
+*.lock
+*.orig

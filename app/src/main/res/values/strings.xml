@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentsTasks</string>
+    <string name="tareaspendientes">Tareas Pendientes</string>
+    <string name="pendientes">Pendientes</string>
+    <string name="terminadas">Terminadas</string>
+    <string name="crear">Crear</string>
+    <string name="tareasterminadas">Tareas Terminadas</string>
+    <string name="nuevaTarea">Nueva Tarea</string>
+    <string name="btnCrear">Crear Tarea</string>
+</resources>
