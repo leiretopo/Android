@@ -12,6 +12,7 @@ tools:context=".NavigationFragment">
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
+        android:backgroundTint="@color/darkBlue"
         android:text="@string/pendientes" />
 
     <Button
@@ -19,6 +20,7 @@ tools:context=".NavigationFragment">
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
+        android:backgroundTint="@color/darkBlue"
         android:text="@string/terminadas" />
 
     <Button
@@ -26,5 +28,6 @@ tools:context=".NavigationFragment">
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
+        android:backgroundTint="@color/darkBlue"
         android:text="@string/crear" />
 </LinearLayout>

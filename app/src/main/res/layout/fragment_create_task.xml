@@ -14,9 +14,16 @@ tools:context=".CreateTaskFragment">
         android:layout_height="wrap_content"
         android:hint="@string/nuevaTarea" />
 
+    <EditText
+        android:id="@+id/taskDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/descripcion" />
+
     <Button
         android:id="@+id/btnAddTask"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:backgroundTint="@color/darkBlue"
         android:text="@string/btnCrear" />
 </LinearLayout>
